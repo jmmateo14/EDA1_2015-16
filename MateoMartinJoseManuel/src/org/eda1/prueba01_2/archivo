@@ -1,0 +1,19 @@
+@Formato del archivo	
+@Linea 1: Nombre del trabajador
+@Linea 2: Dia y horas trabajadas; Si no trabaja ese dia se indica con el simbolo -
+@Los comentarios comienzan con el caracter @ al principio de la linea
+@En total, 30 entradas por cada trabajador
+Juan Sanchez Sanchez
+
+5.5 - 7 - 8.3 - 9.2 - 5.5 - - - - - - 10.5 - - - 2 - - - - - 9 - - - -
+Emilia Perez Gimenez
+
+@El archivo puede tener líneas en blanco o comentarios...en cualquier sitio
+
+- - 3 - - 5 9 5 - - - - - - - - - - - 2 - - - - - - - - - -
+Juan Sanchez Perez
+8 - 7 - 8.3 - 9.2 - 5.5 - - - - - - 10.5 - - - 2 - - - - - 9 - - - -
+Adelaida Iglesias Torres
+8 - 7 - 8.3 - 9.2 - 5.5 - - - - - - 10.5 - - - 2 - - - - - 9 - - - -
+
+@Fin del archivo
